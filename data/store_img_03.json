@@ -1,0 +1,196 @@
+{
+  "en-US": {
+    "headline": [
+      "Memorize",
+      "in minutes"
+    ],
+    "subtitle": "Short Loop Practice (SLP)",
+    "show_answer": "Show answer",
+    "meaning": "big brother",
+    "caption": "Fast repetition loops lock new vocabulary into your short-term memory in minutes.",
+    "caption2": "Then FSRS schedules every review so you remember for the long term."
+  },
+  "es-419": {
+    "headline": [
+      "Memoriza",
+      "en minutos"
+    ],
+    "subtitle": "Short Loop Practice (SLP)",
+    "show_answer": "Mostrar respuesta",
+    "meaning": "hermano mayor",
+    "caption": "Ciclos rápidos de repetición fijan el vocabulario nuevo en tu memoria a corto plazo en minutos.",
+    "caption2": "Después, FSRS programa cada repaso para que lo recuerdes a largo plazo."
+  },
+  "es-ES": {
+    "headline": [
+      "Memoriza",
+      "en minutos"
+    ],
+    "subtitle": "Short Loop Practice (SLP)",
+    "show_answer": "Mostrar respuesta",
+    "meaning": "hermano mayor",
+    "caption": "Ciclos rápidos de repetición fijan el vocabulario nuevo en tu memoria a corto plazo en minutos.",
+    "caption2": "Después, FSRS programa cada repaso para que lo recuerdes a largo plazo."
+  },
+  "de-DE": {
+    "headline": [
+      "Einprägen",
+      "in Minuten"
+    ],
+    "subtitle": "Short Loop Practice (SLP)",
+    "show_answer": "Antwort zeigen",
+    "meaning": "großer Bruder",
+    "caption": "Schnelle Wiederholungsschleifen verankern neue Vokabeln in Minuten in deinem Kurzzeitgedächtnis.",
+    "caption2": "Danach plant FSRS jede Wiederholung, damit du dir alles langfristig merkst."
+  },
+  "fr-FR": {
+    "headline": [
+      "Mémorisez",
+      "en quelques minutes"
+    ],
+    "subtitle": "Short Loop Practice (SLP)",
+    "show_answer": "Afficher la réponse",
+    "meaning": "grand frère",
+    "caption": "Des boucles de répétition rapides ancrent le nouveau vocabulaire dans votre mémoire à court terme en quelques minutes.",
+    "caption2": "Ensuite, FSRS planifie chaque révision pour que vous reteniez à long terme."
+  },
+  "it-IT": {
+    "headline": [
+      "Memorizza",
+      "in pochi minuti"
+    ],
+    "subtitle": "Short Loop Practice (SLP)",
+    "show_answer": "Mostra risposta",
+    "meaning": "fratello maggiore",
+    "caption": "Cicli di ripetizione rapidi fissano il nuovo vocabolario nella memoria a breve termine in pochi minuti.",
+    "caption2": "Poi FSRS programma ogni ripasso per ricordare a lungo termine."
+  },
+  "pt-BR": {
+    "headline": [
+      "Memorize",
+      "em minutos"
+    ],
+    "subtitle": "Short Loop Practice (SLP)",
+    "show_answer": "Mostrar resposta",
+    "meaning": "irmão mais velho",
+    "caption": "Ciclos rápidos de repetição fixam o vocabulário novo na sua memória de curto prazo em minutos.",
+    "caption2": "Depois, o FSRS agenda cada revisão para você lembrar a longo prazo."
+  },
+  "nl-NL": {
+    "headline": [
+      "Onthoud",
+      "in minuten"
+    ],
+    "subtitle": "Short Loop Practice (SLP)",
+    "show_answer": "Toon antwoord",
+    "meaning": "grote broer",
+    "caption": "Snelle herhalingslussen zetten nieuwe woordenschat in minuten vast in je kortetermijngeheugen.",
+    "caption2": "Daarna plant FSRS elke herhaling, zodat je het lang onthoudt."
+  },
+  "ru-RU": {
+    "headline": [
+      "Запоминайте",
+      "за минуты"
+    ],
+    "subtitle": "Short Loop Practice (SLP)",
+    "show_answer": "Показать ответ",
+    "meaning": "старший брат",
+    "caption": "Быстрые циклы повторения закрепляют новую лексику в кратковременной памяти за минуты.",
+    "caption2": "Затем FSRS планирует каждое повторение, чтобы вы помнили надолго."
+  },
+  "tr-TR": {
+    "headline": [
+      "Ezberle",
+      "dakikalar içinde"
+    ],
+    "subtitle": "Short Loop Practice (SLP)",
+    "show_answer": "Cevabı göster",
+    "meaning": "ağabey",
+    "caption": "Hızlı tekrar döngüleri yeni kelimeleri dakikalar içinde kısa süreli belleğinize yerleştirir.",
+    "caption2": "Ardından FSRS her tekrarı planlar, böylece uzun vadede hatırlarsınız."
+  },
+  "ar": {
+    "headline": [
+      "احفظ",
+      "في دقائق"
+    ],
+    "subtitle": "Short Loop Practice (SLP)",
+    "show_answer": "إظهار الإجابة",
+    "meaning": "أخ أكبر",
+    "caption": "حلقات تكرار سريعة تثبّت المفردات الجديدة في ذاكرتك قصيرة المدى خلال دقائق.",
+    "caption2": "بعد ذلك يجدول FSRS كل مراجعة لتتذكر على المدى الطويل.",
+    "needs_font": true
+  },
+  "hi-IN": {
+    "headline": [
+      "याद करें",
+      "मिनटों में"
+    ],
+    "subtitle": "Short Loop Practice (SLP)",
+    "show_answer": "उत्तर दिखाएँ",
+    "meaning": "बड़ा भाई",
+    "caption": "तेज़ दोहराव चक्र नई शब्दावली को मिनटों में आपकी अल्पकालिक याददाश्त में बैठा देते हैं।",
+    "caption2": "फिर FSRS हर रिविज़न तय करता है ताकि आप लंबे समय तक याद रखें।",
+    "needs_font": true
+  },
+  "bn-BD": {
+    "headline": [
+      "মনে রাখুন",
+      "কয়েক মিনিটে"
+    ],
+    "subtitle": "Short Loop Practice (SLP)",
+    "show_answer": "উত্তর দেখুন",
+    "meaning": "বড় ভাই",
+    "caption": "দ্রুত পুনরাবৃত্তির চক্র কয়েক মিনিটেই নতুন শব্দভান্ডার আপনার স্বল্পমেয়াদি স্মৃতিতে বসিয়ে দেয়।",
+    "caption2": "এরপর FSRS প্রতিটি রিভিশন সাজায়, যাতে আপনি দীর্ঘদিন মনে রাখতে পারেন।",
+    "needs_font": true
+  },
+  "ur": {
+    "headline": [
+      "یاد کریں",
+      "منٹوں میں"
+    ],
+    "subtitle": "Short Loop Practice (SLP)",
+    "show_answer": "جواب دکھائیں",
+    "meaning": "بڑا بھائی",
+    "caption": "تیز تکرار کے چکر چند منٹوں میں نئے الفاظ کو آپ کی قلیل مدتی یادداشت میں بٹھا دیتے ہیں۔",
+    "caption2": "پھر FSRS ہر ریویژن مقرر کرتا ہے تاکہ آپ طویل مدت تک یاد رکھ سکیں۔",
+    "needs_font": true
+  },
+  "ja-JP": {
+    "headline": [
+      "数分で",
+      "覚える"
+    ],
+    "subtitle": "ショートループ練習(SLP)",
+    "show_answer": "答えを見る",
+    "meaning": "お兄さん",
+    "caption": "素早い反復ループで、新しい単語を数分で短期記憶に定着させます。",
+    "caption2": "その後、FSRSが復習のタイミングを設定し、長期記憶につなげます。",
+    "needs_font": true
+  },
+  "ko-KR": {
+    "headline": [
+      "몇 분 만에",
+      "외우기"
+    ],
+    "subtitle": "Short Loop Practice (SLP)",
+    "show_answer": "정답 보기",
+    "meaning": "형·오빠",
+    "caption": "빠른 반복 루프가 새로운 단어를 몇 분 만에 단기 기억에 고정합니다.",
+    "caption2": "그다음 FSRS가 복습 시점을 예약해 장기 기억으로 이어지게 합니다.",
+    "needs_font": true
+  },
+  "zh-CN": {
+    "headline": [
+      "几分钟",
+      "记住单词"
+    ],
+    "subtitle": "Short Loop Practice(SLP)",
+    "show_answer": "显示答案",
+    "meaning": "哥哥",
+    "caption": "快速重复循环让新词汇在几分钟内进入短期记忆。",
+    "caption2": "之后,FSRS 会安排每次复习,帮助你长期记住。",
+    "needs_font": true
+  }
+}

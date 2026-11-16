@@ -1,0 +1,251 @@
+{
+  "en-US": {
+    "headline": [
+      "Smart review",
+      "Fibonacci spacing"
+    ],
+    "subtitle": "You only review what you're about to forget",
+    "right_title": "If you get it right",
+    "right_text": "The gap, in days, follows the Fibonacci curve",
+    "wrong_title": "If you miss it",
+    "wrong_text": "The interval steps back, so it returns sooner",
+    "meaning": "(humble) older brother",
+    "wrong": "wrong",
+    "right": "Right"
+  },
+  "es-419": {
+    "headline": [
+      "Repaso inteligente",
+      "Espaciado Fibonacci"
+    ],
+    "subtitle": "Solo repasas lo que estás por olvidar",
+    "right_title": "Si aciertas",
+    "right_text": "El intervalo, en días, crece según la curva de Fibonacci",
+    "wrong_title": "Si fallas",
+    "wrong_text": "El intervalo retrocede y vuelve antes",
+    "meaning": "(humilde) hermano mayor",
+    "wrong": "Incorrecto",
+    "right": "Correcto"
+  },
+  "es-ES": {
+    "headline": [
+      "Repaso inteligente",
+      "Espaciado Fibonacci"
+    ],
+    "subtitle": "Solo repasas lo que estás por olvidar",
+    "right_title": "Si aciertas",
+    "right_text": "El intervalo, en días, crece según la curva de Fibonacci",
+    "wrong_title": "Si fallas",
+    "wrong_text": "El intervalo retrocede y vuelve antes",
+    "meaning": "(humilde) hermano mayor",
+    "wrong": "Incorrecto",
+    "right": "Correcto"
+  },
+  "de-DE": {
+    "headline": [
+      "Smartes Wiederholen",
+      "Fibonacci-Abstände"
+    ],
+    "subtitle": "Du wiederholst nur, was du fast vergessen hast",
+    "right_title": "Wenn du es weißt",
+    "right_text": "Der Abstand in Tagen wächst nach der Fibonacci-Kurve",
+    "wrong_title": "Wenn du es nicht weißt",
+    "wrong_text": "Der Abstand springt zurück, es kommt früher wieder",
+    "meaning": "(bescheiden) älterer Bruder",
+    "wrong": "Falsch",
+    "right": "Richtig"
+  },
+  "fr-FR": {
+    "headline": [
+      "Révision intelligente",
+      "Espacement Fibonacci"
+    ],
+    "subtitle": "Vous ne révisez que ce que vous allez oublier",
+    "right_title": "Si vous réussissez",
+    "right_text": "L'intervalle, en jours, suit la courbe de Fibonacci",
+    "wrong_title": "Si vous échouez",
+    "wrong_text": "L'intervalle recule, la carte revient plus tôt",
+    "meaning": "(humble) grand frère",
+    "wrong": "Faux",
+    "right": "Juste"
+  },
+  "it-IT": {
+    "headline": [
+      "Ripasso intelligente",
+      "Intervalli Fibonacci"
+    ],
+    "subtitle": "Ripassi solo ciò che stai per dimenticare",
+    "right_title": "Se rispondi bene",
+    "right_text": "L'intervallo, in giorni, segue la curva di Fibonacci",
+    "wrong_title": "Se sbagli",
+    "wrong_text": "L'intervallo torna indietro e riappare prima",
+    "meaning": "(umile) fratello maggiore",
+    "wrong": "Sbagliato",
+    "right": "Giusto"
+  },
+  "pt-BR": {
+    "headline": [
+      "Revisão inteligente",
+      "Espaçamento Fibonacci"
+    ],
+    "subtitle": "Você só revisa o que está prestes a esquecer",
+    "right_title": "Se você acertar",
+    "right_text": "O intervalo, em dias, segue a curva de Fibonacci",
+    "wrong_title": "Se você errar",
+    "wrong_text": "O intervalo volta atrás e o item reaparece antes",
+    "meaning": "(humilde) irmão mais velho",
+    "wrong": "Errado",
+    "right": "Certo"
+  },
+  "nl-NL": {
+    "headline": [
+      "Slim herhalen",
+      "Fibonacci-intervallen"
+    ],
+    "subtitle": "Je herhaalt alleen wat je bijna vergeet",
+    "right_title": "Als je het goed hebt",
+    "right_text": "Het interval in dagen volgt de Fibonacci-curve",
+    "wrong_title": "Als je het fout hebt",
+    "wrong_text": "Het interval gaat terug, dus het komt eerder terug",
+    "meaning": "(nederig) oudere broer",
+    "wrong": "Fout",
+    "right": "Goed"
+  },
+  "ru-RU": {
+    "headline": [
+      "Умное повторение",
+      "Интервалы Фибоначчи"
+    ],
+    "subtitle": "Повторяете только то, что скоро забудете",
+    "right_title": "Если ответили верно",
+    "right_text": "Интервал в днях растёт по кривой Фибоначчи",
+    "wrong_title": "Если ошиблись",
+    "wrong_text": "Интервал сокращается, карточка вернётся раньше",
+    "meaning": "(скромн.) старший брат",
+    "wrong": "Неверно",
+    "right": "Верно"
+  },
+  "tr-TR": {
+    "headline": [
+      "Akıllı tekrar",
+      "Fibonacci aralıkları"
+    ],
+    "subtitle": "Sadece unutmak üzere olduğun şeyleri tekrar edersin",
+    "right_title": "Doğru bilirsen",
+    "right_text": "Gün cinsinden aralık Fibonacci eğrisini izler",
+    "wrong_title": "Yanlış bilirsen",
+    "wrong_text": "Aralık geri gider, daha erken geri gelir",
+    "meaning": "(mütevazı) ağabey",
+    "wrong": "Yanlış",
+    "right": "Doğru"
+  },
+  "ar": {
+    "headline": [
+      "مراجعة ذكية",
+      "فترات فيبوناتشي"
+    ],
+    "subtitle": "تراجع فقط ما أوشكت على نسيانه",
+    "right_title": "إذا أجبت صحيحًا",
+    "right_text": "تتّسع الفترة بالأيام وفق منحنى فيبوناتشي",
+    "wrong_title": "إذا أخطأت",
+    "wrong_text": "تتراجع الفترة فيعود العنصر أبكر",
+    "meaning": "(متواضع) أخ أكبر",
+    "wrong": "خطأ",
+    "right": "صحيح",
+    "rtl": true,
+    "raqm": true,
+    "needs_font": true
+  },
+  "hi-IN": {
+    "headline": [
+      "स्मार्ट रिविज़न",
+      "फिबोनाची अंतराल"
+    ],
+    "subtitle": "आप सिर्फ़ वही दोहराते हैं जो भूलने वाले हैं",
+    "right_title": "सही जवाब पर",
+    "right_text": "दिनों में अंतराल फिबोनाची वक्र के अनुसार बढ़ता है",
+    "wrong_title": "गलत जवाब पर",
+    "wrong_text": "अंतराल पीछे लौटता है, इसलिए शब्द जल्दी लौटता है",
+    "meaning": "(विनम्र) बड़ा भाई",
+    "wrong": "गलत",
+    "right": "सही",
+    "needs_font": true
+  },
+  "bn-BD": {
+    "headline": [
+      "স্মার্ট রিভিশন",
+      "ফিবোনাচ্চি ব্যবধান"
+    ],
+    "subtitle": "শুধু যা ভুলে যেতে বসেছেন তা-ই রিভিশন করেন",
+    "right_title": "সঠিক হলে",
+    "right_text": "দিনের ব্যবধান ফিবোনাচ্চি বক্র অনুসারে বাড়ে",
+    "wrong_title": "ভুল হলে",
+    "wrong_text": "ব্যবধান পিছিয়ে যায়, তাই আগেই ফিরে আসে",
+    "meaning": "(বিনীত) বড় ভাই",
+    "wrong": "ভুল",
+    "right": "সঠিক",
+    "needs_font": true
+  },
+  "ur": {
+    "headline": [
+      "اسمارٹ ریویژن",
+      "فیبوناچی وقفے"
+    ],
+    "subtitle": "آپ صرف وہی دہراتے ہیں جو بھولنے والا ہے",
+    "right_title": "درست جواب پر",
+    "right_text": "دنوں میں وقفہ فیبوناچی منحنی کے مطابق بڑھتا ہے",
+    "wrong_title": "غلط جواب پر",
+    "wrong_text": "وقفہ پیچھے ہٹتا ہے، اس لیے جلد واپس آتا ہے",
+    "meaning": "(عاجزانہ) بڑا بھائی",
+    "wrong": "غلط",
+    "right": "درست",
+    "rtl": true,
+    "raqm": true,
+    "needs_font": true
+  },
+  "ja-JP": {
+    "headline": [
+      "スマート復習",
+      "フィボナッチ間隔"
+    ],
+    "subtitle": "忘れかけたものだけを復習",
+    "right_title": "正解したら",
+    "right_text": "間隔(日数)はフィボナッチ数列に沿って広がります",
+    "wrong_title": "間違えたら",
+    "wrong_text": "間隔が戻り、早めに再登場します",
+    "meaning": "(謙譲)兄",
+    "wrong": "不正解",
+    "right": "正解",
+    "needs_font": true
+  },
+  "ko-KR": {
+    "headline": [
+      "스마트 복습",
+      "피보나치 간격"
+    ],
+    "subtitle": "잊어버리기 직전의 것만 복습해요",
+    "right_title": "맞히면",
+    "right_text": "일 단위 간격이 피보나치 곡선을 따라 늘어나요",
+    "wrong_title": "틀리면",
+    "wrong_text": "간격이 되돌아가서 더 빨리 다시 나와요",
+    "meaning": "(겸양) 형·오빠",
+    "wrong": "오답",
+    "right": "정답",
+    "needs_font": true
+  },
+  "zh-CN": {
+    "headline": [
+      "智能复习",
+      "斐波那契间隔"
+    ],
+    "subtitle": "只复习你快要忘记的内容",
+    "right_title": "答对时",
+    "right_text": "以天为单位的间隔沿斐波那契曲线增长",
+    "wrong_title": "答错时",
+    "wrong_text": "间隔会回退，所以更早再次出现",
+    "meaning": "(谦称)哥哥",
+    "wrong": "错误",
+    "right": "正确",
+    "needs_font": true
+  }
+}

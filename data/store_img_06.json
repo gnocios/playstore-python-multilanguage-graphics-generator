@@ -1,0 +1,283 @@
+{
+  "en-US": {
+    "headline": [
+      "Practice",
+      "your way"
+    ],
+    "subtitle": "Sound, voice, shuffle, loops and more",
+    "meaning": "Family",
+    "labels": [
+      "Sound",
+      "Female voice",
+      "Randomize",
+      "Infinite Loop",
+      "Chaos",
+      "Auto-Submit"
+    ]
+  },
+  "es-419": {
+    "headline": [
+      "Practica",
+      "a tu manera"
+    ],
+    "subtitle": "Sonido, voz, orden aleatorio, bucles y más",
+    "meaning": "Familia",
+    "labels": [
+      "Sonido",
+      "Voz femenina",
+      "Aleatorio",
+      "Bucle infinito",
+      "Caos",
+      "Envío automático"
+    ]
+  },
+  "es-ES": {
+    "headline": [
+      "Practica",
+      "a tu manera"
+    ],
+    "subtitle": "Sonido, voz, orden aleatorio, bucles y más",
+    "meaning": "Familia",
+    "labels": [
+      "Sonido",
+      "Voz femenina",
+      "Aleatorio",
+      "Bucle infinito",
+      "Caos",
+      "Envío automático"
+    ]
+  },
+  "de-DE": {
+    "headline": [
+      "Übe",
+      "auf deine Art"
+    ],
+    "subtitle": "Ton, Stimme, Zufallsmodus, Schleifen und mehr",
+    "meaning": "Familie",
+    "labels": [
+      "Ton",
+      "Weibliche Stimme",
+      "Zufallsreihenfolge",
+      "Endlosschleife",
+      "Chaos",
+      "Automatisch senden"
+    ]
+  },
+  "fr-FR": {
+    "headline": [
+      "Étudiez",
+      "à votre façon"
+    ],
+    "subtitle": "Son, voix, mode aléatoire, boucles et plus",
+    "meaning": "Famille",
+    "labels": [
+      "Son",
+      "Voix féminine",
+      "Aléatoire",
+      "Boucle infinie",
+      "Chaos",
+      "Envoi automatique"
+    ]
+  },
+  "it-IT": {
+    "headline": [
+      "Studia",
+      "a modo tuo"
+    ],
+    "subtitle": "Suono, voce, ordine casuale, cicli e altro",
+    "meaning": "Famiglia",
+    "labels": [
+      "Suono",
+      "Voce femminile",
+      "Casuale",
+      "Ciclo infinito",
+      "Caos",
+      "Invio automatico"
+    ]
+  },
+  "pt-BR": {
+    "headline": [
+      "Estude",
+      "do seu jeito"
+    ],
+    "subtitle": "Som, voz, ordem aleatória, loops e mais",
+    "meaning": "Família",
+    "labels": [
+      "Som",
+      "Voz feminina",
+      "Aleatório",
+      "Loop infinito",
+      "Caos",
+      "Envio automático"
+    ]
+  },
+  "nl-NL": {
+    "headline": [
+      "Oefen",
+      "op jouw manier"
+    ],
+    "subtitle": "Geluid, stem, willekeurige volgorde, lussen en meer",
+    "meaning": "Familie",
+    "labels": [
+      "Geluid",
+      "Vrouwenstem",
+      "Willekeurig",
+      "Oneindige lus",
+      "Chaos",
+      "Automatisch verzenden"
+    ]
+  },
+  "ru-RU": {
+    "headline": [
+      "Занимайтесь",
+      "по-своему"
+    ],
+    "subtitle": "Звук, голос, случайный порядок, циклы и многое другое",
+    "meaning": "Семья",
+    "labels": [
+      "Звук",
+      "Женский голос",
+      "Случайный порядок",
+      "Бесконечный цикл",
+      "Хаос",
+      "Автоотправка"
+    ]
+  },
+  "tr-TR": {
+    "headline": [
+      "Çalış",
+      "kendi tarzında"
+    ],
+    "subtitle": "Ses, rastgele sıra, döngüler ve daha fazlası",
+    "meaning": "Aile",
+    "labels": [
+      "Ses",
+      "Kadın sesi",
+      "Rastgele",
+      "Sonsuz döngü",
+      "Kaos",
+      "Otomatik gönder"
+    ]
+  },
+  "ar": {
+    "headline": [
+      "تدرّب",
+      "بطريقتك"
+    ],
+    "subtitle": "الصوت والترتيب العشوائي والحلقات والمزيد",
+    "meaning": "عائلة",
+    "labels": [
+      "الصوت",
+      "صوت أنثوي",
+      "عشوائي",
+      "حلقة لا نهائية",
+      "فوضى",
+      "إرسال تلقائي"
+    ],
+    "rtl": true,
+    "needs_font": true
+  },
+  "hi-IN": {
+    "headline": [
+      "अभ्यास करें",
+      "अपने तरीके से"
+    ],
+    "subtitle": "ध्वनि, आवाज़, रैंडम क्रम, लूप और भी बहुत कुछ",
+    "meaning": "परिवार",
+    "labels": [
+      "ध्वनि",
+      "महिला आवाज़",
+      "रैंडम",
+      "अनंत लूप",
+      "केऑस",
+      "ऑटो-सबमिट"
+    ],
+    "needs_font": true
+  },
+  "bn-BD": {
+    "headline": [
+      "অনুশীলন করুন",
+      "নিজের মতো করে"
+    ],
+    "subtitle": "শব্দ, কণ্ঠ, এলোমেলো ক্রম, লুপ এবং আরও অনেক কিছু",
+    "meaning": "পরিবার",
+    "labels": [
+      "শব্দ",
+      "মহিলা কণ্ঠ",
+      "এলোমেলো",
+      "অসীম লুপ",
+      "বিশৃঙ্খলা",
+      "অটো-সাবমিট"
+    ],
+    "needs_font": true
+  },
+  "ur": {
+    "headline": [
+      "مشق کریں",
+      "اپنے انداز میں"
+    ],
+    "subtitle": "آواز، بے ترتیب ترتیب، لوپ اور بہت کچھ",
+    "meaning": "خاندان",
+    "labels": [
+      "آواز",
+      "خاتون کی آواز",
+      "بے ترتیب",
+      "لامتناہی لوپ",
+      "افراتفری",
+      "خودکار جمع"
+    ],
+    "rtl": true,
+    "needs_font": true
+  },
+  "ja-JP": {
+    "headline": [
+      "練習は",
+      "自分のスタイルで"
+    ],
+    "subtitle": "サウンド・音声・ランダム・ループなど",
+    "meaning": "かぞく",
+    "labels": [
+      "サウンド",
+      "女性の声",
+      "ランダム",
+      "無限ループ",
+      "カオス",
+      "自動送信"
+    ],
+    "needs_font": true
+  },
+  "ko-KR": {
+    "headline": [
+      "연습은",
+      "내 방식대로"
+    ],
+    "subtitle": "소리, 음성, 랜덤, 반복 등",
+    "meaning": "가족",
+    "labels": [
+      "소리",
+      "여성 음성",
+      "랜덤",
+      "무한 반복",
+      "카오스",
+      "자동 제출"
+    ],
+    "needs_font": true
+  },
+  "zh-CN": {
+    "headline": [
+      "练习",
+      "按你的方式"
+    ],
+    "subtitle": "声音、语音、随机、循环等",
+    "meaning": "家庭",
+    "labels": [
+      "声音",
+      "女声",
+      "随机",
+      "无限循环",
+      "混乱",
+      "自动提交"
+    ],
+    "needs_font": true
+  }
+}

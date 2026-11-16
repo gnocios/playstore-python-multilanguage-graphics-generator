@@ -1,0 +1,434 @@
+{
+  "en-US": {
+    "headline": [
+      "Learn Japanese",
+      "N5 → N1"
+    ],
+    "subtitle": "Kanji, vocabulary and smart review",
+    "meanings": {
+      "父": "Dad",
+      "母": "Mom",
+      "従姉妹": "cousin (female)",
+      "姉妹": "sisters",
+      "祖父": "grandfather",
+      "祖母": "grandmother",
+      "妻": "(humble) wife",
+      "兄弟": "(humble) siblings",
+      "夫": "husband",
+      "娘": "(humble) daughter",
+      "息子": "(humble) son",
+      "家族": "family",
+      "妹": "(humble) younger sister",
+      "弟": "younger brother",
+      "兄": "(humble) older brother",
+      "姉": "(humble) older sister"
+    }
+  },
+  "es-419": {
+    "headline": [
+      "Aprende japonés",
+      "N5 → N1"
+    ],
+    "subtitle": "Kanji, vocabulario y repaso inteligente",
+    "meanings": {
+      "父": "papá",
+      "母": "mamá",
+      "従姉妹": "prima",
+      "姉妹": "hermanas",
+      "祖父": "abuelo",
+      "祖母": "abuela",
+      "妻": "(humilde) esposa",
+      "兄弟": "(humilde) hermanos",
+      "夫": "esposo",
+      "娘": "(humilde) hija",
+      "息子": "(humilde) hijo",
+      "家族": "familia",
+      "妹": "(humilde) hermana menor",
+      "弟": "hermano menor",
+      "兄": "(humilde) hermano mayor",
+      "姉": "(humilde) hermana mayor"
+    }
+  },
+  "es-ES": {
+    "headline": [
+      "Aprende japonés",
+      "N5 → N1"
+    ],
+    "subtitle": "Kanji, vocabulario y repaso inteligente",
+    "meanings": {
+      "父": "papá",
+      "母": "mamá",
+      "従姉妹": "prima",
+      "姉妹": "hermanas",
+      "祖父": "abuelo",
+      "祖母": "abuela",
+      "妻": "(humilde) esposa",
+      "兄弟": "(humilde) hermanos",
+      "夫": "esposo",
+      "娘": "(humilde) hija",
+      "息子": "(humilde) hijo",
+      "家族": "familia",
+      "妹": "(humilde) hermana menor",
+      "弟": "hermano menor",
+      "兄": "(humilde) hermano mayor",
+      "姉": "(humilde) hermana mayor"
+    }
+  },
+  "de-DE": {
+    "headline": [
+      "Japanisch lernen",
+      "N5 → N1"
+    ],
+    "subtitle": "Kanji, Vokabeln und intelligentes Wiederholen",
+    "meanings": {
+      "父": "Papa",
+      "母": "Mama",
+      "従姉妹": "Cousine",
+      "姉妹": "Schwestern",
+      "祖父": "Großvater",
+      "祖母": "Großmutter",
+      "妻": "(bescheiden) Ehefrau",
+      "兄弟": "(bescheiden) Geschwister",
+      "夫": "Ehemann",
+      "娘": "(bescheiden) Tochter",
+      "息子": "(bescheiden) Sohn",
+      "家族": "Familie",
+      "妹": "(bescheiden) jüngere Schwester",
+      "弟": "jüngerer Bruder",
+      "兄": "(bescheiden) älterer Bruder",
+      "姉": "(bescheiden) ältere Schwester"
+    }
+  },
+  "fr-FR": {
+    "headline": [
+      "Apprenez le japonais",
+      "N5 → N1"
+    ],
+    "subtitle": "Kanji, vocabulaire et révision intelligente",
+    "meanings": {
+      "父": "papa",
+      "母": "maman",
+      "従姉妹": "cousine",
+      "姉妹": "sœurs",
+      "祖父": "grand-père",
+      "祖母": "grand-mère",
+      "妻": "(humble) épouse",
+      "兄弟": "(humble) frères et sœurs",
+      "夫": "mari",
+      "娘": "(humble) fille",
+      "息子": "(humble) fils",
+      "家族": "famille",
+      "妹": "(humble) petite sœur",
+      "弟": "petit frère",
+      "兄": "(humble) grand frère",
+      "姉": "(humble) grande sœur"
+    }
+  },
+  "it-IT": {
+    "headline": [
+      "Impara il giapponese",
+      "N5 → N1"
+    ],
+    "subtitle": "Kanji, vocabolario e ripasso intelligente",
+    "meanings": {
+      "父": "papà",
+      "母": "mamma",
+      "従姉妹": "cugina",
+      "姉妹": "sorelle",
+      "祖父": "nonno",
+      "祖母": "nonna",
+      "妻": "(umile) moglie",
+      "兄弟": "(umile) fratelli",
+      "夫": "marito",
+      "娘": "(umile) figlia",
+      "息子": "(umile) figlio",
+      "家族": "famiglia",
+      "妹": "(umile) sorella minore",
+      "弟": "fratello minore",
+      "兄": "(umile) fratello maggiore",
+      "姉": "(umile) sorella maggiore"
+    }
+  },
+  "pt-BR": {
+    "headline": [
+      "Aprenda japonês",
+      "N5 → N1"
+    ],
+    "subtitle": "Kanji, vocabulário e revisão inteligente",
+    "meanings": {
+      "父": "papai",
+      "母": "mamãe",
+      "従姉妹": "prima",
+      "姉妹": "irmãs",
+      "祖父": "avô",
+      "祖母": "avó",
+      "妻": "(humilde) esposa",
+      "兄弟": "(humilde) irmãos",
+      "夫": "marido",
+      "娘": "(humilde) filha",
+      "息子": "(humilde) filho",
+      "家族": "família",
+      "妹": "(humilde) irmã mais nova",
+      "弟": "irmão mais novo",
+      "兄": "(humilde) irmão mais velho",
+      "姉": "(humilde) irmã mais velha"
+    }
+  },
+  "nl-NL": {
+    "headline": [
+      "Leer Japans",
+      "N5 → N1"
+    ],
+    "subtitle": "Kanji, woordenschat en slim herhalen",
+    "meanings": {
+      "父": "papa",
+      "母": "mama",
+      "従姉妹": "nicht",
+      "姉妹": "zussen",
+      "祖父": "opa",
+      "祖母": "oma",
+      "妻": "(nederig) echtgenote",
+      "兄弟": "(nederig) broers en zussen",
+      "夫": "echtgenoot",
+      "娘": "(nederig) dochter",
+      "息子": "(nederig) zoon",
+      "家族": "familie",
+      "妹": "(nederig) jongere zus",
+      "弟": "jongere broer",
+      "兄": "(nederig) oudere broer",
+      "姉": "(nederig) oudere zus"
+    }
+  },
+  "ru-RU": {
+    "headline": [
+      "Учите японский",
+      "N5 → N1"
+    ],
+    "subtitle": "Кандзи, лексика и умное повторение",
+    "meanings": {
+      "父": "папа",
+      "母": "мама",
+      "従姉妹": "двоюродная сестра",
+      "姉妹": "сёстры",
+      "祖父": "дедушка",
+      "祖母": "бабушка",
+      "妻": "(скромн.) жена",
+      "兄弟": "(скромн.) братья и сёстры",
+      "夫": "муж",
+      "娘": "(скромн.) дочь",
+      "息子": "(скромн.) сын",
+      "家族": "семья",
+      "妹": "(скромн.) младшая сестра",
+      "弟": "младший брат",
+      "兄": "(скромн.) старший брат",
+      "姉": "(скромн.) старшая сестра"
+    }
+  },
+  "tr-TR": {
+    "headline": [
+      "Japonca öğren",
+      "N5 → N1"
+    ],
+    "subtitle": "Kanji, kelime ve akıllı tekrar",
+    "meanings": {
+      "父": "baba",
+      "母": "anne",
+      "従姉妹": "kuzen (kız)",
+      "姉妹": "kız kardeşler",
+      "祖父": "büyükbaba",
+      "祖母": "büyükanne",
+      "妻": "(mütevazı) eş",
+      "兄弟": "(mütevazı) kardeşler",
+      "夫": "koca",
+      "娘": "(mütevazı) kız evlat",
+      "息子": "(mütevazı) oğul",
+      "家族": "aile",
+      "妹": "(mütevazı) küçük kız kardeş",
+      "弟": "küçük erkek kardeş",
+      "兄": "(mütevazı) ağabey",
+      "姉": "(mütevazı) abla"
+    }
+  },
+  "ar": {
+    "headline": [
+      "تعلّم اليابانية",
+      "N5 → N1"
+    ],
+    "subtitle": "كانجي ومفردات ومراجعة ذكية",
+    "meanings": {
+      "父": "بابا",
+      "母": "ماما",
+      "従姉妹": "ابنة العم أو الخال",
+      "姉妹": "أخوات",
+      "祖父": "جد",
+      "祖母": "جدة",
+      "妻": "(متواضع) زوجة",
+      "兄弟": "(متواضع) إخوة",
+      "夫": "زوج",
+      "娘": "(متواضع) ابنة",
+      "息子": "(متواضع) ابن",
+      "家族": "عائلة",
+      "妹": "(متواضع) أخت صغرى",
+      "弟": "أخ أصغر",
+      "兄": "(متواضع) أخ أكبر",
+      "姉": "(متواضع) أخت كبرى"
+    },
+    "needs_font": true
+  },
+  "hi-IN": {
+    "headline": [
+      "जापानी सीखें",
+      "N5 → N1"
+    ],
+    "subtitle": "कांजी, शब्दावली और स्मार्ट रिविज़न",
+    "meanings": {
+      "父": "पापा",
+      "母": "मम्मी",
+      "従姉妹": "चचेरी बहन",
+      "姉妹": "बहनें",
+      "祖父": "दादा",
+      "祖母": "दादी",
+      "妻": "(विनम्र) पत्नी",
+      "兄弟": "(विनम्र) भाई-बहन",
+      "夫": "पति",
+      "娘": "(विनम्र) बेटी",
+      "息子": "(विनम्र) बेटा",
+      "家族": "परिवार",
+      "妹": "(विनम्र) छोटी बहन",
+      "弟": "छोटा भाई",
+      "兄": "(विनम्र) बड़ा भाई",
+      "姉": "(विनम्र) बड़ी बहन"
+    },
+    "needs_font": true
+  },
+  "bn-BD": {
+    "headline": [
+      "জাপানি শিখুন",
+      "N5 → N1"
+    ],
+    "subtitle": "কাঞ্জি, শব্দভান্ডার ও স্মার্ট রিভিশন",
+    "meanings": {
+      "父": "বাবা",
+      "母": "মা",
+      "従姉妹": "কাজিন (বোন)",
+      "姉妹": "বোনেরা",
+      "祖父": "দাদু",
+      "祖母": "দিদা",
+      "妻": "(বিনীত) স্ত্রী",
+      "兄弟": "(বিনীত) ভাইবোন",
+      "夫": "স্বামী",
+      "娘": "(বিনীত) মেয়ে",
+      "息子": "(বিনীত) ছেলে",
+      "家族": "পরিবার",
+      "妹": "(বিনীত) ছোট বোন",
+      "弟": "ছোট ভাই",
+      "兄": "(বিনীত) বড় ভাই",
+      "姉": "(বিনীত) বড় বোন"
+    },
+    "needs_font": true
+  },
+  "ur": {
+    "headline": [
+      "جاپانی سیکھیں",
+      "N5 → N1"
+    ],
+    "subtitle": "کانجی، الفاظ اور اسمارٹ ریویژن",
+    "meanings": {
+      "父": "ابو",
+      "母": "امی",
+      "従姉妹": "کزن (لڑکی)",
+      "姉妹": "بہنیں",
+      "祖父": "دادا",
+      "祖母": "دادی",
+      "妻": "(عاجزانہ) بیوی",
+      "兄弟": "(عاجزانہ) بہن بھائی",
+      "夫": "شوہر",
+      "娘": "(عاجزانہ) بیٹی",
+      "息子": "(عاجزانہ) بیٹا",
+      "家族": "خاندان",
+      "妹": "(عاجزانہ) چھوٹی بہن",
+      "弟": "چھوٹا بھائی",
+      "兄": "(عاجزانہ) بڑا بھائی",
+      "姉": "(عاجزانہ) بڑی بہن"
+    },
+    "needs_font": true
+  },
+  "ja-JP": {
+    "headline": [
+      "日本語を学ぼう",
+      "N5 → N1"
+    ],
+    "subtitle": "漢字・単語・スマート復習",
+    "meanings": {
+      "父": "お父さん",
+      "母": "お母さん",
+      "従姉妹": "いとこ(女性)",
+      "姉妹": "姉妹",
+      "祖父": "おじいさん",
+      "祖母": "おばあさん",
+      "妻": "(謙譲)妻",
+      "兄弟": "(謙譲)兄弟",
+      "夫": "夫",
+      "娘": "(謙譲)娘",
+      "息子": "(謙譲)息子",
+      "家族": "家族",
+      "妹": "(謙譲)妹",
+      "弟": "弟",
+      "兄": "(謙譲)兄",
+      "姉": "(謙譲)姉"
+    },
+    "needs_font": true
+  },
+  "ko-KR": {
+    "headline": [
+      "일본어 배우기",
+      "N5 → N1"
+    ],
+    "subtitle": "한자, 단어, 스마트 복습",
+    "meanings": {
+      "父": "아빠",
+      "母": "엄마",
+      "従姉妹": "사촌(여)",
+      "姉妹": "자매",
+      "祖父": "할아버지",
+      "祖母": "할머니",
+      "妻": "(겸양) 아내",
+      "兄弟": "(겸양) 형제",
+      "夫": "남편",
+      "娘": "(겸양) 딸",
+      "息子": "(겸양) 아들",
+      "家族": "가족",
+      "妹": "(겸양) 여동생",
+      "弟": "남동생",
+      "兄": "(겸양) 형·오빠",
+      "姉": "(겸양) 누나·언니"
+    },
+    "needs_font": true
+  },
+  "zh-CN": {
+    "headline": [
+      "学日语",
+      "N5 → N1"
+    ],
+    "subtitle": "汉字、词汇与智能复习",
+    "meanings": {
+      "父": "爸爸",
+      "母": "妈妈",
+      "従姉妹": "堂/表姐妹",
+      "姉妹": "姐妹",
+      "祖父": "祖父",
+      "祖母": "祖母",
+      "妻": "(谦称)妻子",
+      "兄弟": "(谦称)兄弟",
+      "夫": "丈夫",
+      "娘": "(谦称)女儿",
+      "息子": "(谦称)儿子",
+      "家族": "家庭",
+      "妹": "(谦称)妹妹",
+      "弟": "弟弟",
+      "兄": "(谦称)哥哥",
+      "姉": "(谦称)姐姐"
+    },
+    "needs_font": true
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "en-US": {
+    "headline": [
+      "Kana, Kanji",
+      "& Vocabulary"
+    ],
+    "subtitle": "Three libraries to explore in the app",
+    "kana_title": "Kana tables",
+    "kana_text": "Hiragana and katakana with romaji and IPA",
+    "kanji_title": "Kanji library",
+    "kanji_text": "Kanji with their readings and meanings",
+    "vocab_title": "Vocabulary library",
+    "vocab_text": "Words and phrases with readings and meanings"
+  },
+  "es-419": {
+    "headline": [
+      "Kana, kanji",
+      "y vocabulario"
+    ],
+    "subtitle": "Tres bibliotecas para explorar en la app",
+    "kana_title": "Tablas de kana",
+    "kana_text": "Hiragana y katakana con romaji e IPA",
+    "kanji_title": "Biblioteca de kanji",
+    "kanji_text": "Kanji con sus lecturas y significados",
+    "vocab_title": "Biblioteca de vocabulario",
+    "vocab_text": "Palabras y frases con lecturas y significados"
+  },
+  "es-ES": {
+    "headline": [
+      "Kana, kanji",
+      "y vocabulario"
+    ],
+    "subtitle": "Tres bibliotecas para explorar en la app",
+    "kana_title": "Tablas de kana",
+    "kana_text": "Hiragana y katakana con romaji e IPA",
+    "kanji_title": "Biblioteca de kanji",
+    "kanji_text": "Kanji con sus lecturas y significados",
+    "vocab_title": "Biblioteca de vocabulario",
+    "vocab_text": "Palabras y frases con lecturas y significados"
+  },
+  "de-DE": {
+    "headline": [
+      "Kana, Kanji",
+      "& Vokabeln"
+    ],
+    "subtitle": "Drei Bibliotheken zum Stöbern in der App",
+    "kana_title": "Kana-Tabellen",
+    "kana_text": "Hiragana und Katakana mit Romaji und IPA",
+    "kanji_title": "Kanji-Bibliothek",
+    "kanji_text": "Kanji mit Lesungen und Bedeutungen",
+    "vocab_title": "Vokabel-Bibliothek",
+    "vocab_text": "Wörter und Sätze mit Lesungen und Bedeutungen"
+  },
+  "fr-FR": {
+    "headline": [
+      "Kana, kanji",
+      "& vocabulaire"
+    ],
+    "subtitle": "Trois bibliothèques à explorer dans l'appli",
+    "kana_title": "Tableaux de kana",
+    "kana_text": "Hiragana et katakana avec romaji et IPA",
+    "kanji_title": "Bibliothèque de kanji",
+    "kanji_text": "Kanji avec leurs lectures et leurs sens",
+    "vocab_title": "Bibliothèque de vocabulaire",
+    "vocab_text": "Mots et phrases avec lectures et sens"
+  },
+  "it-IT": {
+    "headline": [
+      "Kana, kanji",
+      "e vocabolario"
+    ],
+    "subtitle": "Tre biblioteche da esplorare nell'app",
+    "kana_title": "Tabelle dei kana",
+    "kana_text": "Hiragana e katakana con romaji e IPA",
+    "kanji_title": "Libreria di kanji",
+    "kanji_text": "Kanji con letture e significati",
+    "vocab_title": "Libreria di vocabolario",
+    "vocab_text": "Parole e frasi con letture e significati"
+  },
+  "pt-BR": {
+    "headline": [
+      "Kana, kanji",
+      "e vocabulário"
+    ],
+    "subtitle": "Três bibliotecas para explorar no app",
+    "kana_title": "Tabelas de kana",
+    "kana_text": "Hiragana e katakana com romaji e IPA",
+    "kanji_title": "Biblioteca de kanji",
+    "kanji_text": "Kanji com leituras e significados",
+    "vocab_title": "Biblioteca de vocabulário",
+    "vocab_text": "Palavras e frases com leituras e significados"
+  },
+  "nl-NL": {
+    "headline": [
+      "Kana, kanji",
+      "& woordenschat"
+    ],
+    "subtitle": "Drie bibliotheken om te ontdekken in de app",
+    "kana_title": "Kana-tabellen",
+    "kana_text": "Hiragana en katakana met romaji en IPA",
+    "kanji_title": "Kanji-bibliotheek",
+    "kanji_text": "Kanji met hun lezingen en betekenissen",
+    "vocab_title": "Woordenschatbibliotheek",
+    "vocab_text": "Woorden en zinnen met lezingen en betekenissen"
+  },
+  "ru-RU": {
+    "headline": [
+      "Кана, кандзи",
+      "и лексика"
+    ],
+    "subtitle": "Три библиотеки для изучения в приложении",
+    "kana_title": "Таблицы каны",
+    "kana_text": "Хирагана и катакана с ромадзи и IPA",
+    "kanji_title": "Библиотека кандзи",
+    "kanji_text": "Кандзи с чтениями и значениями",
+    "vocab_title": "Библиотека лексики",
+    "vocab_text": "Слова и фразы с чтениями и значениями"
+  },
+  "tr-TR": {
+    "headline": [
+      "Kana, kanji",
+      "ve kelime"
+    ],
+    "subtitle": "Uygulamada keşfedeceğin üç kütüphane",
+    "kana_title": "Kana tabloları",
+    "kana_text": "Romaji ve IPA ile hiragana ve katakana",
+    "kanji_title": "Kanji kütüphanesi",
+    "kanji_text": "Okunuşları ve anlamlarıyla kanji",
+    "vocab_title": "Kelime kütüphanesi",
+    "vocab_text": "Okunuşları ve anlamlarıyla kelimeler ve cümleler"
+  },
+  "ar": {
+    "headline": [
+      "كانا وكانجي",
+      "ومفردات"
+    ],
+    "subtitle": "ثلاث مكتبات للاستكشاف داخل التطبيق",
+    "kana_title": "جداول الكانا",
+    "kana_text": "هيراغانا وكاتاكانا مع الروماجي وIPA",
+    "kanji_title": "مكتبة الكانجي",
+    "kanji_text": "كانجي مع قراءاته ومعانيه",
+    "vocab_title": "مكتبة المفردات",
+    "vocab_text": "كلمات وجمل مع القراءات والمعاني",
+    "rtl": true,
+    "raqm": true,
+    "needs_font": true
+  },
+  "hi-IN": {
+    "headline": [
+      "काना, कांजी",
+      "और शब्दावली"
+    ],
+    "subtitle": "ऐप में खोजने के लिए तीन लाइब्रेरी",
+    "kana_title": "काना तालिकाएँ",
+    "kana_text": "रोमाजी और IPA के साथ हिरागाना और काताकाना",
+    "kanji_title": "कांजी लाइब्रेरी",
+    "kanji_text": "पढ़ने के तरीकों और अर्थों के साथ कांजी",
+    "vocab_title": "शब्दावली लाइब्रेरी",
+    "vocab_text": "पढ़ने के तरीकों और अर्थों के साथ शब्द और वाक्यांश",
+    "needs_font": true
+  },
+  "bn-BD": {
+    "headline": [
+      "কানা, কাঞ্জি",
+      "ও শব্দভান্ডার"
+    ],
+    "subtitle": "অ্যাপে ঘুরে দেখার তিনটি লাইব্রেরি",
+    "kana_title": "কানা টেবিল",
+    "kana_text": "রোমাজি ও IPA সহ হিরাগানা ও কাতাকানা",
+    "kanji_title": "কাঞ্জি লাইব্রেরি",
+    "kanji_text": "পঠন ও অর্থসহ কাঞ্জি",
+    "vocab_title": "শব্দভান্ডার লাইব্রেরি",
+    "vocab_text": "পঠন ও অর্থসহ শব্দ ও বাক্যাংশ",
+    "needs_font": true
+  },
+  "ur": {
+    "headline": [
+      "کانا، کانجی",
+      "اور الفاظ"
+    ],
+    "subtitle": "ایپ میں دیکھنے کے لیے تین لائبریریاں",
+    "kana_title": "کانا جدولیں",
+    "kana_text": "روماجی اور IPA کے ساتھ ہیراگانا اور کاتاکانا",
+    "kanji_title": "کانجی لائبریری",
+    "kanji_text": "پڑھنے اور معنی کے ساتھ کانجی",
+    "vocab_title": "الفاظ کی لائبریری",
+    "vocab_text": "پڑھنے اور معنی کے ساتھ الفاظ اور جملے",
+    "rtl": true,
+    "raqm": true,
+    "needs_font": true
+  },
+  "ja-JP": {
+    "headline": [
+      "かな・漢字・単語",
+      "ひとつにまとめて"
+    ],
+    "subtitle": "アプリで見られる3つのライブラリ",
+    "kana_title": "かな表",
+    "kana_text": "ひらがな・カタカナ(ローマ字・IPA付き)",
+    "kanji_title": "漢字ライブラリ",
+    "kanji_text": "読みと意味つきの漢字",
+    "vocab_title": "単語ライブラリ",
+    "vocab_text": "読みと意味つきの単語・フレーズ",
+    "needs_font": true
+  },
+  "ko-KR": {
+    "headline": [
+      "가나, 한자",
+      "& 어휘"
+    ],
+    "subtitle": "앱에서 둘러볼 수 있는 세 가지 라이브러리",
+    "kana_title": "가나 표",
+    "kana_text": "로마자와 IPA가 있는 히라가나·가타카나",
+    "kanji_title": "한자 라이브러리",
+    "kanji_text": "읽는 법과 뜻이 있는 한자",
+    "vocab_title": "어휘 라이브러리",
+    "vocab_text": "읽는 법과 뜻이 있는 단어·문장",
+    "needs_font": true
+  },
+  "zh-CN": {
+    "headline": [
+      "假名、汉字",
+      "和词汇"
+    ],
+    "subtitle": "在应用中浏览的三个资料库",
+    "kana_title": "假名表",
+    "kana_text": "平假名和片假名，附罗马字和IPA",
+    "kanji_title": "汉字库",
+    "kanji_text": "附读音和释义的汉字",
+    "vocab_title": "词汇库",
+    "vocab_text": "附读音和释义的单词和短语",
+    "needs_font": true
+  }
+}

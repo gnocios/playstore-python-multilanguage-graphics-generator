@@ -1,0 +1,485 @@
+{
+  "en-US": {
+    "tagline": [
+      "Learn Japanese ",
+      "by Playing"
+    ],
+    "features": [
+      {
+        "title": "JLPT path from N5 to N1",
+        "desc": "Always know what to study and which level you're at."
+      },
+      {
+        "title": "Kanji from day 1",
+        "desc": "Learn words and kanji with real examples, not boring tables."
+      },
+      {
+        "title": "Short Loop Practice (SLP)",
+        "desc": "Fast repetition loops lock new vocabulary into your memory in minutes."
+      },
+      {
+        "title": "FSRS spaced repetition",
+        "desc": "Every review arrives at the right moment, so you remember for the long term."
+      },
+      {
+        "title": "15 minutes a day",
+        "desc": "Short sessions: learn, review, done."
+      }
+    ]
+  },
+  "es-419": {
+    "tagline": [
+      "Aprende japonés ",
+      "jugando"
+    ],
+    "features": [
+      {
+        "title": "Ruta JLPT de N5 a N1",
+        "desc": "Siempre sabes qué estudiar y en qué nivel estás."
+      },
+      {
+        "title": "Kanji desde el día 1",
+        "desc": "Aprende palabras y kanji con ejemplos reales, no tablas aburridas."
+      },
+      {
+        "title": "Short Loop Practice (SLP)",
+        "desc": "Ciclos rápidos de repetición fijan el vocabulario nuevo en tu memoria en minutos."
+      },
+      {
+        "title": "Repetición espaciada FSRS",
+        "desc": "Cada repaso llega en el momento justo para que lo recuerdes a largo plazo."
+      },
+      {
+        "title": "15 minutos al día",
+        "desc": "Sesiones cortas: aprende, repasa y listo."
+      }
+    ]
+  },
+  "es-ES": {
+    "tagline": [
+      "Aprende japonés ",
+      "jugando"
+    ],
+    "features": [
+      {
+        "title": "Ruta JLPT de N5 a N1",
+        "desc": "Siempre sabes qué estudiar y en qué nivel estás."
+      },
+      {
+        "title": "Kanji desde el día 1",
+        "desc": "Aprende palabras y kanji con ejemplos reales, no tablas aburridas."
+      },
+      {
+        "title": "Short Loop Practice (SLP)",
+        "desc": "Ciclos rápidos de repetición fijan el vocabulario nuevo en tu memoria en minutos."
+      },
+      {
+        "title": "Repetición espaciada FSRS",
+        "desc": "Cada repaso llega en el momento justo para que lo recuerdes a largo plazo."
+      },
+      {
+        "title": "15 minutos al día",
+        "desc": "Sesiones cortas: aprende, repasa y listo."
+      }
+    ]
+  },
+  "de-DE": {
+    "tagline": [
+      "Japanisch lernen ",
+      "spielerisch"
+    ],
+    "features": [
+      {
+        "title": "JLPT-Pfad von N5 bis N1",
+        "desc": "Du weißt immer, was du lernen musst und auf welchem Niveau du bist."
+      },
+      {
+        "title": "Kanji ab Tag 1",
+        "desc": "Lerne Wörter und Kanji mit echten Beispielen statt langweiliger Tabellen."
+      },
+      {
+        "title": "Short Loop Practice (SLP)",
+        "desc": "Schnelle Wiederholungsschleifen verankern neue Vokabeln in Minuten in deinem Gedächtnis."
+      },
+      {
+        "title": "FSRS-Spaced-Repetition",
+        "desc": "Jede Wiederholung kommt im richtigen Moment, damit du dir alles langfristig merkst."
+      },
+      {
+        "title": "15 Minuten am Tag",
+        "desc": "Kurze Einheiten: lernen, wiederholen, fertig."
+      }
+    ]
+  },
+  "fr-FR": {
+    "tagline": [
+      "Apprenez le japonais ",
+      "en jouant"
+    ],
+    "features": [
+      {
+        "title": "Parcours JLPT de N5 à N1",
+        "desc": "Sachez toujours quoi étudier et à quel niveau vous en êtes."
+      },
+      {
+        "title": "Kanji dès le jour 1",
+        "desc": "Apprenez mots et kanji avec de vrais exemples, pas des tableaux ennuyeux."
+      },
+      {
+        "title": "Short Loop Practice (SLP)",
+        "desc": "Des boucles de répétition rapides ancrent le nouveau vocabulaire en quelques minutes."
+      },
+      {
+        "title": "Répétition espacée FSRS",
+        "desc": "Chaque révision arrive au bon moment pour que vous reteniez à long terme."
+      },
+      {
+        "title": "15 minutes par jour",
+        "desc": "Sessions courtes : apprenez, révisez, c'est fini."
+      }
+    ]
+  },
+  "it-IT": {
+    "tagline": [
+      "Impara il giapponese ",
+      "giocando"
+    ],
+    "features": [
+      {
+        "title": "Percorso JLPT da N5 a N1",
+        "desc": "Sai sempre cosa studiare e a che livello sei."
+      },
+      {
+        "title": "Kanji dal primo giorno",
+        "desc": "Impara parole e kanji con esempi reali, non noiose tabelle."
+      },
+      {
+        "title": "Short Loop Practice (SLP)",
+        "desc": "Cicli di ripetizione rapidi fissano il nuovo vocabolario nella memoria in pochi minuti."
+      },
+      {
+        "title": "Ripetizione spaziata FSRS",
+        "desc": "Ogni ripasso arriva al momento giusto, così ricordi a lungo termine."
+      },
+      {
+        "title": "15 minuti al giorno",
+        "desc": "Sessioni brevi: impara, ripassa, fatto."
+      }
+    ]
+  },
+  "pt-BR": {
+    "tagline": [
+      "Aprenda japonês ",
+      "jogando"
+    ],
+    "features": [
+      {
+        "title": "Trilha JLPT do N5 ao N1",
+        "desc": "Saiba sempre o que estudar e em que nível você está."
+      },
+      {
+        "title": "Kanji desde o dia 1",
+        "desc": "Aprenda palavras e kanji com exemplos reais, não tabelas chatas."
+      },
+      {
+        "title": "Short Loop Practice (SLP)",
+        "desc": "Ciclos rápidos de repetição fixam o vocabulário novo na sua memória em minutos."
+      },
+      {
+        "title": "Repetição espaçada FSRS",
+        "desc": "Cada revisão chega no momento certo para você lembrar a longo prazo."
+      },
+      {
+        "title": "15 minutos por dia",
+        "desc": "Sessões curtas: aprenda, revise, pronto."
+      }
+    ]
+  },
+  "nl-NL": {
+    "tagline": [
+      "Leer Japans ",
+      "al spelend"
+    ],
+    "features": [
+      {
+        "title": "JLPT-route van N5 tot N1",
+        "desc": "Weet altijd wat je moet leren en op welk niveau je zit."
+      },
+      {
+        "title": "Kanji vanaf dag 1",
+        "desc": "Leer woorden en kanji met echte voorbeelden, geen saaie tabellen."
+      },
+      {
+        "title": "Short Loop Practice (SLP)",
+        "desc": "Snelle herhalingslussen zetten nieuwe woordenschat in minuten vast in je geheugen."
+      },
+      {
+        "title": "FSRS spaced repetition",
+        "desc": "Elke herhaling komt op het juiste moment, zodat je het lang onthoudt."
+      },
+      {
+        "title": "15 minuten per dag",
+        "desc": "Korte sessies: leren, herhalen, klaar."
+      }
+    ]
+  },
+  "ru-RU": {
+    "tagline": [
+      "Учите японский ",
+      "играя"
+    ],
+    "features": [
+      {
+        "title": "Путь JLPT от N5 до N1",
+        "desc": "Всегда знайте, что учить и на каком вы уровне."
+      },
+      {
+        "title": "Кандзи с первого дня",
+        "desc": "Учите слова и кандзи на реальных примерах, а не по скучным таблицам."
+      },
+      {
+        "title": "Short Loop Practice (SLP)",
+        "desc": "Быстрые циклы повторения закрепляют новую лексику в памяти за минуты."
+      },
+      {
+        "title": "Интервальные повторения FSRS",
+        "desc": "Каждое повторение приходит в нужный момент, чтобы вы помнили надолго."
+      },
+      {
+        "title": "15 минут в день",
+        "desc": "Короткие занятия: учим, повторяем, готово."
+      }
+    ]
+  },
+  "tr-TR": {
+    "tagline": [
+      "Japonca öğren ",
+      "oynayarak"
+    ],
+    "features": [
+      {
+        "title": "N5'ten N1'e JLPT yolu",
+        "desc": "Neyi çalışacağınızı ve hangi seviyede olduğunuzu her zaman bilin."
+      },
+      {
+        "title": "İlk günden kanji",
+        "desc": "Sıkıcı tablolar yerine gerçek örneklerle kelime ve kanji öğrenin."
+      },
+      {
+        "title": "Short Loop Practice (SLP)",
+        "desc": "Hızlı tekrar döngüleri yeni kelimeleri dakikalar içinde hafızanıza yerleştirir."
+      },
+      {
+        "title": "FSRS aralıklı tekrar",
+        "desc": "Her tekrar doğru zamanda gelir, böylece uzun vadede hatırlarsınız."
+      },
+      {
+        "title": "Günde 15 dakika",
+        "desc": "Kısa oturumlar: öğren, tekrar et, bitti."
+      }
+    ]
+  },
+  "ar": {
+    "tagline": [
+      "تعلّم اليابانية ",
+      "باللعب"
+    ],
+    "features": [
+      {
+        "title": "مسار JLPT من N5 إلى N1",
+        "desc": "اعرف دائمًا ماذا تدرس وفي أي مستوى أنت."
+      },
+      {
+        "title": "كانجي من اليوم الأول",
+        "desc": "تعلّم الكلمات والكانجي بأمثلة حقيقية بدل الجداول المملة."
+      },
+      {
+        "title": "Short Loop Practice (SLP)",
+        "desc": "حلقات تكرار سريعة تثبّت المفردات الجديدة في ذاكرتك خلال دقائق."
+      },
+      {
+        "title": "التكرار المتباعد FSRS",
+        "desc": "تأتي كل مراجعة في الوقت المناسب لتتذكر على المدى الطويل."
+      },
+      {
+        "title": "15 دقيقة يوميًا",
+        "desc": "جلسات قصيرة: تعلّم، راجع، انتهى."
+      }
+    ],
+    "needs_font": true
+  },
+  "hi-IN": {
+    "tagline": [
+      "जापानी सीखें ",
+      "खेल-खेल में"
+    ],
+    "features": [
+      {
+        "title": "N5 से N1 तक JLPT मार्ग",
+        "desc": "हमेशा जानें कि क्या पढ़ना है और आप किस स्तर पर हैं।"
+      },
+      {
+        "title": "पहले दिन से कांजी",
+        "desc": "उबाऊ तालिकाओं की जगह असली उदाहरणों से शब्द और कांजी सीखें।"
+      },
+      {
+        "title": "Short Loop Practice (SLP)",
+        "desc": "तेज़ दोहराव चक्र नई शब्दावली को मिनटों में आपकी याददाश्त में बैठा देते हैं।"
+      },
+      {
+        "title": "FSRS स्पेस्ड रिपीटिशन",
+        "desc": "हर रिविज़न सही समय पर आता है, ताकि आप लंबे समय तक याद रखें।"
+      },
+      {
+        "title": "रोज़ 15 मिनट",
+        "desc": "छोटे सत्र: सीखें, दोहराएँ, बस।"
+      }
+    ],
+    "needs_font": true
+  },
+  "bn-BD": {
+    "tagline": [
+      "জাপানি শিখুন ",
+      "খেলতে খেলতে"
+    ],
+    "features": [
+      {
+        "title": "N5 থেকে N1 পর্যন্ত JLPT পথ",
+        "desc": "সবসময় জানুন কী পড়তে হবে এবং আপনি কোন স্তরে আছেন।"
+      },
+      {
+        "title": "প্রথম দিন থেকে কাঞ্জি",
+        "desc": "বিরক্তিকর টেবিলের বদলে বাস্তব উদাহরণে শব্দ ও কাঞ্জি শিখুন।"
+      },
+      {
+        "title": "Short Loop Practice (SLP)",
+        "desc": "দ্রুত পুনরাবৃত্তির চক্র নতুন শব্দভান্ডার কয়েক মিনিটে আপনার স্মৃতিতে বসিয়ে দেয়।"
+      },
+      {
+        "title": "FSRS স্পেসড রিপিটিশন",
+        "desc": "প্রতিটি রিভিশন সঠিক সময়ে আসে, যাতে আপনি দীর্ঘদিন মনে রাখতে পারেন।"
+      },
+      {
+        "title": "দিনে ১৫ মিনিট",
+        "desc": "ছোট সেশন: শিখুন, পুনরাবৃত্তি করুন, শেষ।"
+      }
+    ],
+    "needs_font": true
+  },
+  "ur": {
+    "tagline": [
+      "جاپانی سیکھیں ",
+      "کھیل کھیل میں"
+    ],
+    "features": [
+      {
+        "title": "N5 سے N1 تک JLPT راستہ",
+        "desc": "ہمیشہ جانیں کہ کیا پڑھنا ہے اور آپ کس سطح پر ہیں۔"
+      },
+      {
+        "title": "پہلے دن سے کانجی",
+        "desc": "بور کر دینے والے جدولوں کی جگہ حقیقی مثالوں سے الفاظ اور کانجی سیکھیں۔"
+      },
+      {
+        "title": "Short Loop Practice (SLP)",
+        "desc": "تیز تکرار کے چکر نئے الفاظ کو چند منٹوں میں آپ کی یادداشت میں بٹھا دیتے ہیں۔"
+      },
+      {
+        "title": "FSRS اسپیسڈ ریپیٹیشن",
+        "desc": "ہر ریویژن درست وقت پر آتا ہے تاکہ آپ طویل مدت تک یاد رکھ سکیں۔"
+      },
+      {
+        "title": "روزانہ 15 منٹ",
+        "desc": "مختصر سیشن: سیکھیں، دہرائیں، بس۔"
+      }
+    ],
+    "needs_font": true
+  },
+  "ja-JP": {
+    "tagline": [
+      "日本語を",
+      "遊びながら学ぶ"
+    ],
+    "features": [
+      {
+        "title": "N5からN1までのJLPTルート",
+        "desc": "何を勉強すべきか、今どのレベルかがいつでもわかります。"
+      },
+      {
+        "title": "1日目から漢字",
+        "desc": "退屈な表ではなく、実際の例文で単語と漢字を学べます。"
+      },
+      {
+        "title": "ショートループ練習(SLP)",
+        "desc": "素早い反復ループで、新しい単語を数分で記憶に定着させます。"
+      },
+      {
+        "title": "FSRS間隔反復",
+        "desc": "復習は最適なタイミングで届くので、長く覚えていられます。"
+      },
+      {
+        "title": "1日15分",
+        "desc": "短いセッションで、学ぶ、復習する、完了。"
+      }
+    ],
+    "needs_font": true
+  },
+  "ko-KR": {
+    "tagline": [
+      "일본어를 ",
+      "놀면서 배우기"
+    ],
+    "features": [
+      {
+        "title": "N5부터 N1까지 JLPT 경로",
+        "desc": "무엇을 공부할지, 지금 어느 수준인지 항상 알 수 있습니다."
+      },
+      {
+        "title": "첫날부터 한자",
+        "desc": "지루한 표 대신 실제 예문으로 단어와 한자를 배웁니다."
+      },
+      {
+        "title": "Short Loop Practice (SLP)",
+        "desc": "빠른 반복 루프가 새 단어를 몇 분 만에 기억에 고정합니다."
+      },
+      {
+        "title": "FSRS 간격 반복",
+        "desc": "복습이 알맞은 시점에 찾아와 장기 기억으로 이어집니다."
+      },
+      {
+        "title": "하루 15분",
+        "desc": "짧은 학습: 배우고, 복습하고, 끝."
+      }
+    ],
+    "needs_font": true
+  },
+  "zh-CN": {
+    "tagline": [
+      "学日语 ",
+      "边玩边学"
+    ],
+    "features": [
+      {
+        "title": "从 N5 到 N1 的 JLPT 路径",
+        "desc": "随时知道学什么、自己处于哪个级别。"
+      },
+      {
+        "title": "第一天起学汉字",
+        "desc": "用真实例句学习单词和汉字,而不是枯燥的表格。"
+      },
+      {
+        "title": "Short Loop Practice(SLP)",
+        "desc": "快速重复循环让新词汇在几分钟内进入记忆。"
+      },
+      {
+        "title": "FSRS 间隔重复",
+        "desc": "每次复习都在最合适的时间到来,帮助你长期记住。"
+      },
+      {
+        "title": "每天 15 分钟",
+        "desc": "短时学习:学习、复习、完成。"
+      }
+    ],
+    "needs_font": true
+  }
+}

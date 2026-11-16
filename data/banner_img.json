@@ -1,0 +1,19 @@
+{
+  "en-US": { "sub": ["Learn Japanese ", "by Playing"], "chips": ["JLPT N5 → N1", "Kanji from day 1", "15 min a day"] },
+  "es-419": { "sub": ["Aprende japonés ", "jugando"], "chips": ["JLPT N5 → N1", "Kanji desde el día 1", "15 min al día"] },
+  "es-ES": { "sub": ["Aprende japonés ", "jugando"], "chips": ["JLPT N5 → N1", "Kanji desde el día 1", "15 min al día"] },
+  "de-DE": { "sub": ["Japanisch lernen ", "spielerisch"], "chips": ["JLPT N5 → N1", "Kanji ab Tag 1", "15 Min. täglich"] },
+  "fr-FR": { "sub": ["Apprenez le japonais ", "en jouant"], "chips": ["JLPT N5 → N1", "Kanji dès le jour 1", "15 min par jour"] },
+  "it-IT": { "sub": ["Impara il giapponese ", "giocando"], "chips": ["JLPT N5 → N1", "Kanji dal primo giorno", "15 min al giorno"] },
+  "pt-BR": { "sub": ["Aprenda japonês ", "jogando"], "chips": ["JLPT N5 → N1", "Kanji desde o dia 1", "15 min por dia"] },
+  "nl-NL": { "sub": ["Leer Japans ", "al spelend"], "chips": ["JLPT N5 → N1", "Kanji vanaf dag 1", "15 min per dag"] },
+  "ru-RU": { "sub": ["Учите японский ", "играя"], "chips": ["JLPT N5 → N1", "Кандзи с первого дня", "15 минут в день"] },
+  "tr-TR": { "sub": ["Japonca öğren ", "oynayarak"], "chips": ["JLPT N5 → N1", "İlk günden kanji", "Günde 15 dk"] },
+  "ar": { "sub": ["تعلّم اليابانية ", "باللعب"], "chips": ["JLPT N5–N1", "كانجي من اليوم الأول", "15 دقيقة يوميًا"] },
+  "hi-IN": { "sub": ["जापानी सीखें ", "खेल-खेल में"], "chips": ["JLPT N5 → N1", "पहले दिन से कांजी", "रोज़ 15 मिनट"] },
+  "bn-BD": { "sub": ["জাপানি শিখুন ", "খেলতে খেলতে"], "chips": ["JLPT N5 → N1", "প্রথম দিন থেকে কাঞ্জি", "দিনে ১৫ মিনিট"] },
+  "ur": { "sub": ["جاپانی سیکھیں ", "کھیل کھیل میں"], "chips": ["JLPT N5–N1", "پہلے دن سے کانجی", "روزانہ 15 منٹ"] },
+  "ja-JP": { "sub": ["日本語を", "遊びながら学ぶ"], "chips": ["JLPT N5 → N1", "1日目から漢字", "1日15分"] },
+  "ko-KR": { "sub": ["일본어를 ", "놀면서 배우기"], "chips": ["JLPT N5 → N1", "첫날부터 한자", "하루 15분"] },
+  "zh-CN": { "sub": ["学日语 ", "边玩边学"], "chips": ["JLPT N5 → N1", "第一天起学汉字", "每天 15 分钟"] }
+}

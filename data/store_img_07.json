@@ -1,0 +1,489 @@
+{
+  "en-US": {
+    "headline": [
+      "Right order",
+      "+ right routine"
+    ],
+    "subtitle": "Your daily path to learn Japanese",
+    "p1_title": "Mixed, but in order",
+    "p1_text": "Words, kana and phrases in a set order, so you always know what's next",
+    "p2_title": "A simple daily cycle",
+    "steps": [
+      "Learn new",
+      "Review",
+      "Done"
+    ],
+    "p2_text": "Come in, learn, review. Same routine every day",
+    "meanings": {
+      "父": "Dad",
+      "母": "Mom",
+      "従姉妹": "cousin (female)",
+      "姉妹": "sisters",
+      "祖父": "grandfather",
+      "祖母": "grandmother",
+      "妻": "(humble) wife",
+      "夫": "husband",
+      "娘": "(humble) daughter",
+      "息子": "(humble) son"
+    }
+  },
+  "es-419": {
+    "headline": [
+      "Orden correcto",
+      "+ rutina correcta"
+    ],
+    "subtitle": "Tu ruta diaria para aprender japonés",
+    "p1_title": "Variado, pero con orden",
+    "p1_text": "Palabras, kana y frases en un orden definido, para saber siempre qué sigue",
+    "p2_title": "Un ciclo diario simple",
+    "steps": [
+      "Aprende",
+      "Repasa",
+      "Listo"
+    ],
+    "p2_text": "Entras, aprendes lo nuevo y repasas. Igual todos los días",
+    "meanings": {
+      "父": "papá",
+      "母": "mamá",
+      "従姉妹": "prima",
+      "姉妹": "hermanas",
+      "祖父": "abuelo",
+      "祖母": "abuela",
+      "妻": "(humilde) esposa",
+      "夫": "esposo",
+      "娘": "(humilde) hija",
+      "息子": "(humilde) hijo"
+    }
+  },
+  "es-ES": {
+    "headline": [
+      "Orden correcto",
+      "+ rutina correcta"
+    ],
+    "subtitle": "Tu ruta diaria para aprender japonés",
+    "p1_title": "Variado, pero con orden",
+    "p1_text": "Palabras, kana y frases en un orden definido, para saber siempre qué sigue",
+    "p2_title": "Un ciclo diario simple",
+    "steps": [
+      "Aprende",
+      "Repasa",
+      "Listo"
+    ],
+    "p2_text": "Entras, aprendes lo nuevo y repasas. Igual todos los días",
+    "meanings": {
+      "父": "papá",
+      "母": "mamá",
+      "従姉妹": "prima",
+      "姉妹": "hermanas",
+      "祖父": "abuelo",
+      "祖母": "abuela",
+      "妻": "(humilde) esposa",
+      "夫": "esposo",
+      "娘": "(humilde) hija",
+      "息子": "(humilde) hijo"
+    }
+  },
+  "de-DE": {
+    "headline": [
+      "Richtige Reihenfolge",
+      "+ richtige Routine"
+    ],
+    "subtitle": "Dein täglicher Weg zum Japanischlernen",
+    "p1_title": "Gemischt, aber geordnet",
+    "p1_text": "Wörter, Kana und Sätze in fester Reihenfolge – du weißt immer, was als Nächstes kommt",
+    "p2_title": "Ein einfacher Tageszyklus",
+    "steps": [
+      "Neues lernen",
+      "Wiederholen",
+      "Fertig"
+    ],
+    "p2_text": "Reinkommen, Neues lernen, wiederholen. Jeden Tag gleich",
+    "meanings": {
+      "父": "Papa",
+      "母": "Mama",
+      "従姉妹": "Cousine",
+      "姉妹": "Schwestern",
+      "祖父": "Großvater",
+      "祖母": "Großmutter",
+      "妻": "(bescheiden) Ehefrau",
+      "夫": "Ehemann",
+      "娘": "(bescheiden) Tochter",
+      "息子": "(bescheiden) Sohn"
+    }
+  },
+  "fr-FR": {
+    "headline": [
+      "Le bon ordre",
+      "+ la bonne routine"
+    ],
+    "subtitle": "Votre parcours quotidien pour apprendre le japonais",
+    "p1_title": "Varié, mais ordonné",
+    "p1_text": "Mots, kana et phrases dans un ordre défini, pour savoir toujours quelle est la suite",
+    "p2_title": "Un cycle quotidien simple",
+    "steps": [
+      "Apprendre",
+      "Réviser",
+      "Terminé"
+    ],
+    "p2_text": "Vous entrez, apprenez du nouveau, révisez. Pareil chaque jour",
+    "meanings": {
+      "父": "papa",
+      "母": "maman",
+      "従姉妹": "cousine",
+      "姉妹": "sœurs",
+      "祖父": "grand-père",
+      "祖母": "grand-mère",
+      "妻": "(humble) épouse",
+      "夫": "mari",
+      "娘": "(humble) fille",
+      "息子": "(humble) fils"
+    }
+  },
+  "it-IT": {
+    "headline": [
+      "L'ordine giusto",
+      "+ la routine giusta"
+    ],
+    "subtitle": "Il tuo percorso quotidiano per imparare il giapponese",
+    "p1_title": "Vario, ma in ordine",
+    "p1_text": "Parole, kana e frasi in una sequenza precisa, così sai sempre cosa viene dopo",
+    "p2_title": "Un ciclo giornaliero semplice",
+    "steps": [
+      "Impara",
+      "Ripassa",
+      "Fatto"
+    ],
+    "p2_text": "Entri, impari cose nuove, ripassi. Uguale ogni giorno",
+    "meanings": {
+      "父": "papà",
+      "母": "mamma",
+      "従姉妹": "cugina",
+      "姉妹": "sorelle",
+      "祖父": "nonno",
+      "祖母": "nonna",
+      "妻": "(umile) moglie",
+      "夫": "marito",
+      "娘": "(umile) figlia",
+      "息子": "(umile) figlio"
+    }
+  },
+  "pt-BR": {
+    "headline": [
+      "Ordem certa",
+      "+ rotina certa"
+    ],
+    "subtitle": "Seu caminho diário para aprender japonês",
+    "p1_title": "Variado, mas em ordem",
+    "p1_text": "Palavras, kana e frases em sequência definida, para você saber sempre o que vem depois",
+    "p2_title": "Um ciclo diário simples",
+    "steps": [
+      "Aprender",
+      "Revisar",
+      "Pronto"
+    ],
+    "p2_text": "Você entra, aprende o novo e revisa. Igual todos os dias",
+    "meanings": {
+      "父": "papai",
+      "母": "mamãe",
+      "従姉妹": "prima",
+      "姉妹": "irmãs",
+      "祖父": "avô",
+      "祖母": "avó",
+      "妻": "(humilde) esposa",
+      "夫": "marido",
+      "娘": "(humilde) filha",
+      "息子": "(humilde) filho"
+    }
+  },
+  "nl-NL": {
+    "headline": [
+      "Juiste volgorde",
+      "+ juiste routine"
+    ],
+    "subtitle": "Jouw dagelijkse route om Japans te leren",
+    "p1_title": "Gemengd, maar op volgorde",
+    "p1_text": "Woorden, kana en zinnen in een vaste volgorde, zodat je altijd weet wat volgt",
+    "p2_title": "Een simpele dagelijkse cyclus",
+    "steps": [
+      "Leren",
+      "Herhalen",
+      "Klaar"
+    ],
+    "p2_text": "Inloggen, nieuwe dingen leren, herhalen. Elke dag hetzelfde",
+    "meanings": {
+      "父": "papa",
+      "母": "mama",
+      "従姉妹": "nicht",
+      "姉妹": "zussen",
+      "祖父": "opa",
+      "祖母": "oma",
+      "妻": "(nederig) echtgenote",
+      "夫": "echtgenoot",
+      "娘": "(nederig) dochter",
+      "息子": "(nederig) zoon"
+    }
+  },
+  "ru-RU": {
+    "headline": [
+      "Правильный порядок",
+      "+ правильный ритм"
+    ],
+    "subtitle": "Ваш ежедневный путь к японскому",
+    "p1_title": "Вперемешку, но по порядку",
+    "p1_text": "Слова, кана и фразы в заданной последовательности — всегда ясно, что дальше",
+    "p2_title": "Простой ежедневный цикл",
+    "steps": [
+      "Учим",
+      "Повторяем",
+      "Готово"
+    ],
+    "p2_text": "Заходите, учите новое, повторяйте. Каждый день одинаково",
+    "meanings": {
+      "父": "папа",
+      "母": "мама",
+      "従姉妹": "двоюродная сестра",
+      "姉妹": "сёстры",
+      "祖父": "дедушка",
+      "祖母": "бабушка",
+      "妻": "(скромн.) жена",
+      "夫": "муж",
+      "娘": "(скромн.) дочь",
+      "息子": "(скромн.) сын"
+    }
+  },
+  "tr-TR": {
+    "headline": [
+      "Doğru sıra",
+      "+ doğru rutin"
+    ],
+    "subtitle": "Japonca öğrenmek için günlük yolun",
+    "p1_title": "Karışık ama sıralı",
+    "p1_text": "Kelimeler, kana ve cümleler belirli bir sırayla, böylece sırada ne olduğunu hep bilirsin",
+    "p2_title": "Basit bir günlük döngü",
+    "steps": [
+      "Öğren",
+      "Tekrar et",
+      "Bitti"
+    ],
+    "p2_text": "Gir, yeniyi öğren, tekrar et. Her gün aynı",
+    "meanings": {
+      "父": "baba",
+      "母": "anne",
+      "従姉妹": "kuzen (kız)",
+      "姉妹": "kız kardeşler",
+      "祖父": "büyükbaba",
+      "祖母": "büyükanne",
+      "妻": "(mütevazı) eş",
+      "夫": "koca",
+      "娘": "(mütevazı) kız evlat",
+      "息子": "(mütevazı) oğul"
+    }
+  },
+  "ar": {
+    "headline": [
+      "الترتيب الصحيح",
+      "+ الروتين الصحيح"
+    ],
+    "subtitle": "مسارك اليومي لتعلّم اليابانية",
+    "p1_title": "متنوّع لكن مرتّب",
+    "p1_text": "كلمات وكانا وجمل بتسلسل محدد، لتعرف دائمًا ما التالي",
+    "p2_title": "دورة يومية بسيطة",
+    "steps": [
+      "تعلّم",
+      "راجع",
+      "تم"
+    ],
+    "p2_text": "تدخل وتتعلّم الجديد ثم تراجع. كل يوم بالطريقة نفسها",
+    "meanings": {
+      "父": "بابا",
+      "母": "ماما",
+      "従姉妹": "ابنة العم أو الخال",
+      "姉妹": "أخوات",
+      "祖父": "جد",
+      "祖母": "جدة",
+      "妻": "(متواضع) زوجة",
+      "夫": "زوج",
+      "娘": "(متواضع) ابنة",
+      "息子": "(متواضع) ابن"
+    },
+    "rtl": true,
+    "raqm": true,
+    "needs_font": true
+  },
+  "hi-IN": {
+    "headline": [
+      "सही क्रम",
+      "+ सही दिनचर्या"
+    ],
+    "subtitle": "जापानी सीखने का आपका रोज़ का रास्ता",
+    "p1_title": "मिला-जुला, पर क्रम से",
+    "p1_text": "शब्द, काना और वाक्य तय क्रम में, ताकि आपको हमेशा पता रहे कि आगे क्या है",
+    "p2_title": "एक सरल दैनिक चक्र",
+    "steps": [
+      "सीखें",
+      "दोहराएँ",
+      "पूरा"
+    ],
+    "p2_text": "आएँ, नया सीखें, दोहराएँ। हर दिन वही तरीका",
+    "meanings": {
+      "父": "पापा",
+      "母": "मम्मी",
+      "従姉妹": "चचेरी बहन",
+      "姉妹": "बहनें",
+      "祖父": "दादा",
+      "祖母": "दादी",
+      "妻": "(विनम्र) पत्नी",
+      "夫": "पति",
+      "娘": "(विनम्र) बेटी",
+      "息子": "(विनम्र) बेटा"
+    },
+    "needs_font": true
+  },
+  "bn-BD": {
+    "headline": [
+      "সঠিক ক্রম",
+      "+ সঠিক রুটিন"
+    ],
+    "subtitle": "জাপানি শেখার আপনার প্রতিদিনের পথ",
+    "p1_title": "মেশানো, কিন্তু ক্রমানুসারে",
+    "p1_text": "শব্দ, কানা ও বাক্য নির্দিষ্ট ক্রমে, যাতে সবসময় জানেন এরপর কী",
+    "p2_title": "একটি সহজ দৈনিক চক্র",
+    "steps": [
+      "শিখুন",
+      "রিভিশন",
+      "শেষ"
+    ],
+    "p2_text": "ঢুকুন, নতুন শিখুন, রিভিশন দিন। প্রতিদিন একই নিয়ম",
+    "meanings": {
+      "父": "বাবা",
+      "母": "মা",
+      "従姉妹": "কাজিন (বোন)",
+      "姉妹": "বোনেরা",
+      "祖父": "দাদু",
+      "祖母": "দিদা",
+      "妻": "(বিনীত) স্ত্রী",
+      "夫": "স্বামী",
+      "娘": "(বিনীত) মেয়ে",
+      "息子": "(বিনীত) ছেলে"
+    },
+    "needs_font": true
+  },
+  "ur": {
+    "headline": [
+      "درست ترتیب",
+      "+ درست معمول"
+    ],
+    "subtitle": "جاپانی سیکھنے کا آپ کا روزانہ راستہ",
+    "p1_title": "ملا جلا، مگر ترتیب سے",
+    "p1_text": "الفاظ، کانا اور جملے طے شدہ ترتیب میں، تاکہ آپ کو ہمیشہ معلوم رہے آگے کیا ہے",
+    "p2_title": "ایک سادہ روزانہ چکر",
+    "steps": [
+      "سیکھیں",
+      "دہرائیں",
+      "مکمل"
+    ],
+    "p2_text": "آئیں، نیا سیکھیں، دہرائیں۔ ہر روز یہی طریقہ",
+    "meanings": {
+      "父": "ابو",
+      "母": "امی",
+      "従姉妹": "کزن (لڑکی)",
+      "姉妹": "بہنیں",
+      "祖父": "دادا",
+      "祖母": "دادی",
+      "妻": "(عاجزانہ) بیوی",
+      "夫": "شوہر",
+      "娘": "(عاجزانہ) بیٹی",
+      "息子": "(عاجزانہ) بیٹا"
+    },
+    "rtl": true,
+    "raqm": true,
+    "needs_font": true
+  },
+  "ja-JP": {
+    "headline": [
+      "正しい順番",
+      "+ 正しい習慣"
+    ],
+    "subtitle": "日本語を学ぶ毎日のルート",
+    "p1_title": "ミックスでも、順番どおり",
+    "p1_text": "単語・かな・フレーズが決まった順序で並ぶので、次に何をやるか迷いません",
+    "p2_title": "シンプルな毎日のサイクル",
+    "steps": [
+      "新しく学ぶ",
+      "復習",
+      "完了"
+    ],
+    "p2_text": "開いて、新しいことを学び、復習する。毎日同じ流れです",
+    "meanings": {
+      "父": "お父さん",
+      "母": "お母さん",
+      "従姉妹": "いとこ(女性)",
+      "姉妹": "姉妹",
+      "祖父": "おじいさん",
+      "祖母": "おばあさん",
+      "妻": "(謙譲)妻",
+      "夫": "夫",
+      "娘": "(謙譲)娘",
+      "息子": "(謙譲)息子"
+    },
+    "needs_font": true
+  },
+  "ko-KR": {
+    "headline": [
+      "올바른 순서",
+      "+ 올바른 루틴"
+    ],
+    "subtitle": "일본어를 배우는 매일의 루트",
+    "p1_title": "섞여 있어도 순서대로",
+    "p1_text": "단어, 가나, 문장이 정해진 순서대로 나와서 다음에 뭘 할지 늘 알 수 있어요",
+    "p2_title": "간단한 매일의 사이클",
+    "steps": [
+      "새로 학습",
+      "복습",
+      "완료"
+    ],
+    "p2_text": "들어와서 새로운 것을 배우고 복습하세요. 매일 같은 흐름이에요",
+    "meanings": {
+      "父": "아빠",
+      "母": "엄마",
+      "従姉妹": "사촌(여)",
+      "姉妹": "자매",
+      "祖父": "할아버지",
+      "祖母": "할머니",
+      "妻": "(겸양) 아내",
+      "夫": "남편",
+      "娘": "(겸양) 딸",
+      "息子": "(겸양) 아들"
+    },
+    "needs_font": true
+  },
+  "zh-CN": {
+    "headline": [
+      "正确的顺序",
+      "+ 正确的节奏"
+    ],
+    "subtitle": "每天学日语的路线",
+    "p1_title": "混合学习，但有顺序",
+    "p1_text": "单词、假名和短语按既定顺序出现，你始终知道接下来学什么",
+    "p2_title": "简单的每日循环",
+    "steps": [
+      "学新内容",
+      "复习",
+      "完成"
+    ],
+    "p2_text": "进入、学新内容、复习。每天都是同样的流程",
+    "meanings": {
+      "父": "爸爸",
+      "母": "妈妈",
+      "従姉妹": "堂/表姐妹",
+      "姉妹": "姐妹",
+      "祖父": "祖父",
+      "祖母": "祖母",
+      "妻": "(谦称)妻子",
+      "夫": "丈夫",
+      "娘": "(谦称)女儿",
+      "息子": "(谦称)儿子"
+    },
+    "needs_font": true
+  }
+}

@@ -1,0 +1,373 @@
+{
+  "en-US": {
+    "headline": [
+      "Kanji",
+      "from day 1"
+    ],
+    "subtitle": "Meanings, readings, strokes and JLPT level",
+    "labels": {
+      "meanings": "MEANINGS",
+      "kun": "KUN (JAPANESE READING)",
+      "on": "ON (CHINESE READING)",
+      "strokes": "STROKES",
+      "grade": "GRADE",
+      "frequency": "FREQUENCY",
+      "heisig": "HEISIG KEYWORD"
+    },
+    "chips": [
+      "big brother",
+      "elder brother"
+    ],
+    "keyword": "elder brother"
+  },
+  "es-419": {
+    "headline": [
+      "Kanji",
+      "desde el día 1"
+    ],
+    "subtitle": "Significados, lecturas, trazos y nivel JLPT",
+    "labels": {
+      "meanings": "SIGNIFICADOS",
+      "kun": "KUN (LECTURA JAPONESA)",
+      "on": "ON (LECTURA CHINA)",
+      "strokes": "TRAZOS",
+      "grade": "GRADO",
+      "frequency": "FRECUENCIA",
+      "heisig": "PALABRA CLAVE HEISIG"
+    },
+    "chips": [
+      "hermano mayor",
+      "hermano grande"
+    ],
+    "keyword": "hermano mayor"
+  },
+  "es-ES": {
+    "headline": [
+      "Kanji",
+      "desde el día 1"
+    ],
+    "subtitle": "Significados, lecturas, trazos y nivel JLPT",
+    "labels": {
+      "meanings": "SIGNIFICADOS",
+      "kun": "KUN (LECTURA JAPONESA)",
+      "on": "ON (LECTURA CHINA)",
+      "strokes": "TRAZOS",
+      "grade": "GRADO",
+      "frequency": "FRECUENCIA",
+      "heisig": "PALABRA CLAVE HEISIG"
+    },
+    "chips": [
+      "hermano mayor",
+      "hermano grande"
+    ],
+    "keyword": "hermano mayor"
+  },
+  "de-DE": {
+    "headline": [
+      "Kanji",
+      "ab Tag 1"
+    ],
+    "subtitle": "Bedeutungen, Lesungen, Striche und JLPT-Stufe",
+    "labels": {
+      "meanings": "BEDEUTUNGEN",
+      "kun": "KUN (JAPANISCHE LESUNG)",
+      "on": "ON (CHINESISCHE LESUNG)",
+      "strokes": "STRICHE",
+      "grade": "KLASSE",
+      "frequency": "HÄUFIGKEIT",
+      "heisig": "HEISIG-SCHLÜSSELWORT"
+    },
+    "chips": [
+      "großer Bruder",
+      "älterer Bruder"
+    ],
+    "keyword": "älterer Bruder"
+  },
+  "fr-FR": {
+    "headline": [
+      "Les kanji",
+      "dès le jour 1"
+    ],
+    "subtitle": "Sens, lectures, traits et niveau JLPT",
+    "labels": {
+      "meanings": "SIGNIFICATIONS",
+      "kun": "KUN (LECTURE JAPONAISE)",
+      "on": "ON (LECTURE CHINOISE)",
+      "strokes": "TRAITS",
+      "grade": "NIVEAU",
+      "frequency": "FRÉQUENCE",
+      "heisig": "MOT-CLÉ HEISIG"
+    },
+    "chips": [
+      "grand frère",
+      "frère aîné"
+    ],
+    "keyword": "frère aîné"
+  },
+  "it-IT": {
+    "headline": [
+      "Kanji",
+      "dal primo giorno"
+    ],
+    "subtitle": "Significati, letture, tratti e livello JLPT",
+    "labels": {
+      "meanings": "SIGNIFICATI",
+      "kun": "KUN (LETTURA GIAPPONESE)",
+      "on": "ON (LETTURA CINESE)",
+      "strokes": "TRATTI",
+      "grade": "LIVELLO",
+      "frequency": "FREQUENZA",
+      "heisig": "PAROLA CHIAVE HEISIG"
+    },
+    "chips": [
+      "fratello maggiore",
+      "fratellone"
+    ],
+    "keyword": "fratello maggiore"
+  },
+  "pt-BR": {
+    "headline": [
+      "Kanji",
+      "desde o dia 1"
+    ],
+    "subtitle": "Significados, leituras, traços e nível JLPT",
+    "labels": {
+      "meanings": "SIGNIFICADOS",
+      "kun": "KUN (LEITURA JAPONESA)",
+      "on": "ON (LEITURA CHINESA)",
+      "strokes": "TRAÇOS",
+      "grade": "SÉRIE",
+      "frequency": "FREQUÊNCIA",
+      "heisig": "PALAVRA-CHAVE HEISIG"
+    },
+    "chips": [
+      "irmão mais velho",
+      "irmão grande"
+    ],
+    "keyword": "irmão mais velho"
+  },
+  "nl-NL": {
+    "headline": [
+      "Kanji",
+      "vanaf dag 1"
+    ],
+    "subtitle": "Betekenissen, leesvormen, streken en JLPT-niveau",
+    "labels": {
+      "meanings": "BETEKENISSEN",
+      "kun": "KUN (JAPANSE LEZING)",
+      "on": "ON (CHINESE LEZING)",
+      "strokes": "STREKEN",
+      "grade": "LEERJAAR",
+      "frequency": "FREQUENTIE",
+      "heisig": "HEISIG-TREFWOORD"
+    },
+    "chips": [
+      "grote broer",
+      "oudere broer"
+    ],
+    "keyword": "oudere broer"
+  },
+  "ru-RU": {
+    "headline": [
+      "Кандзи",
+      "с первого дня"
+    ],
+    "subtitle": "Значения, чтения, черты и уровень JLPT",
+    "labels": {
+      "meanings": "ЗНАЧЕНИЯ",
+      "kun": "КУН (ЯПОНСКОЕ ЧТЕНИЕ)",
+      "on": "ОН (КИТАЙСКОЕ ЧТЕНИЕ)",
+      "strokes": "ЧЕРТЫ",
+      "grade": "КЛАСС",
+      "frequency": "ЧАСТОТА",
+      "heisig": "КЛЮЧЕВОЕ СЛОВО ХАЙЗИГА"
+    },
+    "chips": [
+      "старший брат",
+      "брат"
+    ],
+    "keyword": "старший брат"
+  },
+  "tr-TR": {
+    "headline": [
+      "Kanji",
+      "ilk günden"
+    ],
+    "subtitle": "Anlamlar, okunuşlar, çizgi sayısı ve JLPT seviyesi",
+    "labels": {
+      "meanings": "ANLAMLAR",
+      "kun": "KUN (JAPONCA OKUNUŞ)",
+      "on": "ON (ÇİNCE OKUNUŞ)",
+      "strokes": "ÇİZGİ SAYISI",
+      "grade": "SINIF",
+      "frequency": "SIKLIK",
+      "heisig": "HEISIG ANAHTAR KELİME"
+    },
+    "chips": [
+      "ağabey",
+      "abi"
+    ],
+    "keyword": "ağabey"
+  },
+  "ar": {
+    "headline": [
+      "الكانجي",
+      "من اليوم الأول"
+    ],
+    "subtitle": "المعاني والقراءات وعدد الخطوط ومستوى JLPT",
+    "labels": {
+      "meanings": "المعاني",
+      "kun": "كون (القراءة اليابانية)",
+      "on": "أون (القراءة الصينية)",
+      "strokes": "عدد الخطوط",
+      "grade": "الصف",
+      "frequency": "التكرار",
+      "heisig": "كلمة هايسيغ المفتاحية"
+    },
+    "chips": [
+      "أخ أكبر",
+      "الأخ الكبير"
+    ],
+    "keyword": "أخ أكبر",
+    "needs_font": true,
+    "letter_spacing": 0
+  },
+  "hi-IN": {
+    "headline": [
+      "कांजी",
+      "पहले दिन से"
+    ],
+    "subtitle": "अर्थ, पठन, स्ट्रोक और JLPT स्तर",
+    "labels": {
+      "meanings": "अर्थ",
+      "kun": "कुन (जापानी पठन)",
+      "on": "ऑन (चीनी पठन)",
+      "strokes": "स्ट्रोक",
+      "grade": "ग्रेड",
+      "frequency": "आवृत्ति",
+      "heisig": "हाइज़िग कीवर्ड"
+    },
+    "chips": [
+      "बड़ा भाई",
+      "भैया"
+    ],
+    "keyword": "बड़ा भाई",
+    "needs_font": true,
+    "letter_spacing": 0
+  },
+  "bn-BD": {
+    "headline": [
+      "কাঞ্জি",
+      "প্রথম দিন থেকে"
+    ],
+    "subtitle": "অর্থ, পাঠ, স্ট্রোক ও JLPT স্তর",
+    "labels": {
+      "meanings": "অর্থ",
+      "kun": "কুন (জাপানি পাঠ)",
+      "on": "অন (চীনা পাঠ)",
+      "strokes": "স্ট্রোক",
+      "grade": "গ্রেড",
+      "frequency": "ব্যবহারের হার",
+      "heisig": "হাইজিগ কীওয়ার্ড"
+    },
+    "chips": [
+      "বড় ভাই",
+      "দাদা"
+    ],
+    "keyword": "বড় ভাই",
+    "needs_font": true,
+    "letter_spacing": 0
+  },
+  "ur": {
+    "headline": [
+      "کانجی",
+      "پہلے دن سے"
+    ],
+    "subtitle": "معنی، قراءتیں، اسٹروکس اور JLPT سطح",
+    "labels": {
+      "meanings": "معنی",
+      "kun": "کن (جاپانی قراءت)",
+      "on": "اون (چینی قراءت)",
+      "strokes": "اسٹروکس",
+      "grade": "گریڈ",
+      "frequency": "تعدد",
+      "heisig": "ہائیزگ کلیدی لفظ"
+    },
+    "chips": [
+      "بڑا بھائی",
+      "بھائی جان"
+    ],
+    "keyword": "بڑا بھائی",
+    "needs_font": true,
+    "letter_spacing": 0
+  },
+  "ja-JP": {
+    "headline": [
+      "漢字を",
+      "1日目から"
+    ],
+    "subtitle": "意味・読み・画数・JLPTレベル",
+    "labels": {
+      "meanings": "意味",
+      "kun": "訓読み(日本語の読み)",
+      "on": "音読み(中国語の読み)",
+      "strokes": "画数",
+      "grade": "学年",
+      "frequency": "頻度",
+      "heisig": "ハイジッグ・キーワード"
+    },
+    "chips": [
+      "兄",
+      "お兄さん"
+    ],
+    "keyword": "兄",
+    "needs_font": true,
+    "letter_spacing": 0
+  },
+  "ko-KR": {
+    "headline": [
+      "한자",
+      "첫날부터"
+    ],
+    "subtitle": "뜻, 읽기, 획수, JLPT 레벨",
+    "labels": {
+      "meanings": "뜻",
+      "kun": "훈독 (일본어 읽기)",
+      "on": "음독 (중국어 읽기)",
+      "strokes": "획수",
+      "grade": "학년",
+      "frequency": "빈도",
+      "heisig": "하이직 키워드"
+    },
+    "chips": [
+      "형·오빠",
+      "큰형"
+    ],
+    "keyword": "형·오빠",
+    "needs_font": true,
+    "letter_spacing": 0
+  },
+  "zh-CN": {
+    "headline": [
+      "汉字",
+      "第一天起"
+    ],
+    "subtitle": "含义、读音、笔画和 JLPT 等级",
+    "labels": {
+      "meanings": "含义",
+      "kun": "训读(日语读音)",
+      "on": "音读(汉语读音)",
+      "strokes": "笔画",
+      "grade": "年级",
+      "frequency": "频率",
+      "heisig": "HEISIG 关键词"
+    },
+    "chips": [
+      "哥哥",
+      "兄长"
+    ],
+    "keyword": "哥哥",
+    "needs_font": true,
+    "letter_spacing": 0
+  }
+}
